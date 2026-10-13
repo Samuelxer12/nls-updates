@@ -1,0 +1,9 @@
+{
+	"file": "patch_windows_0.6.6.pck",
+	"needs_new_exe": false,
+	"notes": "El Dominus es 10% mas grande.",
+	"sha256": "b294c5601924a4c46bd149398cc1b214a12402856dff9702d6c5ced36b35a7e5",
+	"signature": "DZ1GHB9FL/FkndfohI5oxAzDsiVsXskwTYE91VnhpzZBoJVaYWgd+C6DlUwGeucn4YLJw4cO/BAUeie4QOT+vm7QnZUpfbNJgNYNPnxfbDaQXsrY2VpfMch3g5K8fo0ts+6VUdrEzxWp1awic5VJyyqBiLkLs7zM8eiv83vXg7a2egasEh90KrWxcFpCYku2ZUXSgbP1/4siIQP/HYulsJY53H2pKm/UmVxROs031aoSGuONAmy4s5GkHI3ym+MDsYBi+pGr0RMm26b34GRj2r7yZUVEjcFuYgzvT/6g4jx0es2G7wdJOGysJnS6eGOyRTvBJRU/aLtd9PkXSP9p39Cl6p2SkhNU1gWj447w5nW1CxIcbuCwWgPgkUF4eJ1+06OH+cRryZN0cstqBAJJtY7joP+XVbUgKCmtqJMk9QAV1933i+8i50KeV1Wo0oeAab80wOdZqjC8KnWOD/gKt9yWxPmzXDTNWY0Q3LakczkAZTUUeejblumVgeSpAXao",
+	"size": 10678800,
+	"version": "0.6.6"
+}

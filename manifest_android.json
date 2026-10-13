@@ -1,0 +1,9 @@
+{
+	"file": "patch_android_0.6.6.pck",
+	"needs_new_exe": false,
+	"notes": "El Dominus es 10% mas grande.",
+	"sha256": "e72c309cf8edba52ea7edba95d0f126699139ed7151ab4999099bb9ccccc83cc",
+	"signature": "YtO9+s0x8iv5fMvTBEO0KUWKeoI9ckXglL4O1yMvzgiRyM0qNdZ4vHcnWkeoEQnJtDu/wURFsVU4ABynrgnr5nOG1gdcd720O/oHqcZ+jXJ5ruIsljRgy21Xg01TqU++trIlUd5s3I8cYkrzVx3ZOYbfoekyxahS/8vYMVVJV/oOz4KAnzf61SLjUk9wZTAoqRWtm3CYHc8uASNR+qdrMTzp/hgkAwC/QFNu8mkhIELxLalfmqtCxVes5KwvMFTHp+kBNYnAyUTepjatmKKp6j1SnfRjAjQ+1vn8JS+pv+qoOUtWPRQdNZgPpKy8knyuq0T3amwmBEHZFpRst4Q6Z01e/gYLHdCAdpVv+OlVtkCVLBy8LFV2oyEiGQfHFN5mO8/AHiCiErI0LX3p9zmWPMRU1oydVcmnwpGIzsAQzVYt8fKwwbPjon1bBe2INpGCOuqUba62xYdYHtJZRe86ComJUkJfUII2rtStwX0Ncj42OTQyopsleVDKIkz7ByUw",
+	"size": 10678748,
+	"version": "0.6.6"
+}
